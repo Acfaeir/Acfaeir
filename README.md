@@ -1,6 +1,6 @@
 ## About Me
 
-Me chamo Alan Cefair, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 3º período. Tenho uma paixão por tecnologia e estou me aprofundando no universo do Desenvolvimento Web, com foco em tecnologias como JavaScript, Node.js, HTML e CSS. Desde cedo me interesso por lógica de programação e construção de soluções que possam impactar positivamente o dia a dia das pessoas. Gosto de aprender na prática, participar de projetos acadêmicos e sempre estou em busca de novos desafios que me ajudem a evoluir como desenvolvedor. Meu objetivo é me tornar um profissional completo, com domínio tanto no front-end quanto no back-end, capaz de desenvolver aplicações modernas, escaláveis e eficientes.
+Me chamo Alan Cefair, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 4º período. Tenho uma paixão por tecnologia e estou me aprofundando no universo do Desenvolvimento Web, com foco em tecnologias como JavaScript, Node.js, HTML e CSS. Desde cedo me interesso por lógica de programação e construção de soluções que possam impactar positivamente o dia a dia das pessoas. Gosto de aprender na prática, participar de projetos acadêmicos e sempre estou em busca de novos desafios que me ajudem a evoluir como desenvolvedor. Meu objetivo é me tornar um profissional completo, com domínio tanto no front-end quanto no back-end, capaz de desenvolver aplicações modernas, escaláveis e eficientes.
 
 ## My Skills
 
